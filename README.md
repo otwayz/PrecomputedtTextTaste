@@ -12,4 +12,8 @@ Demo 中实现了 普通 TextView 的文本渲染以及 RecyclerView 中 TextVie
 然后分析渲染消耗。
 
 
-具体参考文章：[https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
+具体参考文章：
+
+[https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
+
+[https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6](https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6)
