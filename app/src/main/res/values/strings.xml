@@ -1,0 +1,402 @@
+<resources>
+    <string name="app_name">PrecomputedTextTaste</string>
+
+    <string-array name="mock_data">
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+        <item>A text which has the character metrics data.
+            A text object that contains the character metrics data
+            and can be used to improve the performance of text layout operations.
+            When a PrecomputedText is created with a given CharSequence,
+            it will measure the text metrics during the creation.
+            This PrecomputedText instance can be set on TextView or StaticLayout.
+            Since the text layout information will be included in this instance,
+            TextView or StaticLayout will not have to recalculate this information.
+            Note that the PrecomputedText created from different parameters of the target
+            TextView will be rejected internally and compute the text
+            layout again with the current TextView parameters.
+        </item>
+    </string-array>
+</resources>
