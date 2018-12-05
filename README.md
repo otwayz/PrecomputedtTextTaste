@@ -1,7 +1,7 @@
 # PrecomputedtTextTaste
 PrecomputedtText Demo
 
-Androdi P 新特性
+Android 9 新特性
 
 使用PrecomputedText 据说可以异步测量文本，节约渲染时间。
 
